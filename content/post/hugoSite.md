@@ -120,11 +120,14 @@ hugo new site myBlog
 - 其他可以看该主题的中文说明
 
 # 生成网站
+
 - 直接运行 hugo ，将会自动生成你的网站到 public/ 目录。
+
 # 保存到github
 - 在github创建一个 yourname.github.io的repository
 
 - 上传public下的文件到github（ssh方式）
+
 ```
 1-git init                 # 本地仓库初始化，执行完后会在工程目录下生成一个.git的隐藏目录
 
