@@ -1,7 +1,7 @@
 ---
 title: "Linux软件记录"
 date: 2019-01-22T15:53:22+08:00
-lastmod: 2019-01-22T15:53:22+08:00
+lastmod: 2019-07-06T15:53:22+08:00
 toc: false # 关闭文章目录
 draft: false # 关闭草稿
 comment: false # 关闭评论
@@ -83,4 +83,23 @@ author: "Cheng" # 作者
     - 地址：https://my.oschina.net/skymozn/blog/1821184
 
 - NetSpeed 插件 状态栏显示网速
+
+- psensor CPU温度查看
+
+    - sudo apt-get install lm-sensors hddtemp psensor
+
+- Wireshark 网络抓包http tcp
+
+- DBeaver Java实现的数据库客户端
+
+- Xmind ZEN 思维导图
+
+- blender 视频处理
+
+- 百度云盘官方
+
+- MIUI米聊 聊天软件
+
+
+
 
